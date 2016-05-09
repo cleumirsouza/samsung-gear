@@ -4,15 +4,15 @@
 <SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha256"></SignatureMethod>
 <Reference URI="app.js">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>NiHIMZbEQps/vf+buVEpZIIC6oogQZRLI0ScV9FgiMk=</DigestValue>
+<DigestValue>R3xWDZQZyUVMmpYTQi9bTC91qzbE1wDAYgMoVwn4Dkc=</DigestValue>
 </Reference>
 <Reference URI="config.xml">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>WStjQq82Ju8x7brVHOpg3zIhX8d8WuCwzXcsB7G/UeM=</DigestValue>
+<DigestValue>TE6lk9rMcw54gxvOFZ1N2+RZmJxgsMxV4CD0uNxzOdU=</DigestValue>
 </Reference>
 <Reference URI="css%2Fstyle.css">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>hh2SknqtdLScRgyXuQYEUi5haESolIC2w7NZognlif8=</DigestValue>
+<DigestValue>lNG6GR4iN6524+eW+Fafd2RJd1/SDLLh3kQygwe18GI=</DigestValue>
 </Reference>
 <Reference URI="icon.png">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
@@ -20,11 +20,15 @@
 </Reference>
 <Reference URI="index.html">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>4EDvFrcGMX27yhVJYoWb3EkasMerGy5+kqsYcP2Knok=</DigestValue>
+<DigestValue>yS+ocYf89FlVsqvgJtbmLoQiFMXAw1RO93e8cOkH/nk=</DigestValue>
 </Reference>
 <Reference URI="js%2Fcircle-helper.js">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>Tx8HYx/0EDXBiyv3fp+dOgBWFmU+QpaaQZ2KKbc0nqU=</DigestValue>
+<DigestValue>w5ewKsBKUvvIyWgNm2l7vuxznZTltACos6fRzJZYlcw=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fgoogle%2Fmaps.js">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>zMH2ZAfjvHEKuzK6ig/z/GSy4AbWji1Mq/X/b+arolU=</DigestValue>
 </Reference>
 <Reference URI="lib%2Ftau%2FLICENSE.Flora">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
@@ -999,11 +1003,11 @@
 </Reference>
 </SignedInfo>
 <SignatureValue>
-klidSwM7thVktX6pLrXAd4LFqZOv5UkQ85C/KVCAcXuWZJuEB4AeoGYwnADI3KSpJFlzyZg4H2nz
-k6fPJo8eBDkY0Z6pAUSlFEAt+RQqHAniSbJ2yBeq1efVXBxLg+vFqo1u1q+/Vm0hzF5KK7T8CHtY
-I/y9w+j+5ZYYQd1iO7fMyGwkLOB92avnFtow8i5S/WORrw+ACiwMqRxl8oYB+A+MCAU9h2F6rUqG
-amqtMSU+0177B0bF+fcYcjIVsigi3AKOPzK++t2adyKrlJBLEkraMdkVum9uKpjwY2gAROZ5vePy
-1nDih8rCPZYtUNlfrwEKKKay/1TYFtUaqjivpg==
+cLciYEhS6UE6WmlOYHK4Ft7etHGD4LLw62QW5as7yQraaXu+5KJRojJzSlUvj/9kGpAny62wXNdL
+6brOiblLNZlAxG0FXgPJsEnhdPaJoLVuiEYTpDSkdAX0XYUNMF/PFz4LYFJfs4HXokzzvKOarACi
+Pdr5VgLBjTO5/bIyPGyoz6IRp5PInjJezvsVFEVgQIUzd/pyWXD2ybz7znFtsEEfE/VmkF32wnd6
+ZTs4ZXeU7ubGTPYzQGugxqNedFaomBvNEerzKM85LMpGt5kU42ON7nfMgqonZuaZnDGnozwndfDB
+eoWI6ttmmf6JuuO0UEGXHZO2AdGW+E5Ld5vivw==
 </SignatureValue>
 <KeyInfo>
 <X509Data>

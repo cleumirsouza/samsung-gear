@@ -2,11 +2,19 @@
     font-family: Verdana, Lucida Sans, Arial, Helvetica, sans-serif;
 }
 
-body {
+/* html body {
     margin: 0px auto;
-    background-color:#222;
+    background-color:#ebebeb;
 }
-
+ */
+body {
+        height: 100%;
+        margin: 0;
+        padding: 0;
+}
+#map {
+  height: 100%;
+}
 .contents {
 	display: flex;
 	display: -webkit-flex;
